@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Coffee Requests">7dfe3b71930d02103ad970d19dba1037</sc_cat_item>
+        <sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-21 02:35:38</sys_created_on>
+        <sys_id>bc6f73b1930d02103ad970d19dba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links.Coffee Requests</sys_name>
+        <sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_update_name>sc_cat_item_category_bc6f73b1930d02103ad970d19dba1004</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-21 02:35:38</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</application>
+        <file_path/>
+        <instance_id>5bffccafdbf13950caf99027c59619ea</instance_id>
+        <instance_name>dev187461</instance_name>
+        <name>sc_cat_item_category_bc6f73b1930d02103ad970d19dba1004</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Coffee Requests">7dfe3b71930d02103ad970d19dba1037</sc_cat_item><sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-21 02:35:38</sys_created_on><sys_id>bc6f73b1930d02103ad970d19dba1004</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Quick Links.Coffee Requests</sys_name><sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package><sys_policy/><sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope><sys_update_name>sc_cat_item_category_bc6f73b1930d02103ad970d19dba1004</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-21 02:35:38</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-855986390</payload_hash>
+        <record_name>Quick Links.Coffee Requests</record_name>
+        <reverted_from/>
+        <source>58afe3fd938902103ad970d19dba1043</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-21 02:35:38</sys_created_on>
+        <sys_id>786f73b1930d02103ad970d19dba1009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e5edd32b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-21 02:35:38</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>f86f73b15a0d021023b55ff555231508</update_guid>
+        <update_guid_history>f86f73b15a0d021023b55ff555231508:-855986390</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Quick Links.Coffee Requests">c4710806930d02103ad970d19dba106e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-21 02:44:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>bcbbb1712dd249aab40f61bd7ec5cc51</sys_id>
+        <sys_metadata>bc6f73b1930d02103ad970d19dba1004</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links.Coffee Requests</sys_name>
+        <sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_scope_delete display_value="">1df2990344e647fb84788b3a0efc9d19</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_bc6f73b1930d02103ad970d19dba1004</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_bc6f73b1930d02103ad970d19dba1004">786f73b1930d02103ad970d19dba1009</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-21 02:44:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

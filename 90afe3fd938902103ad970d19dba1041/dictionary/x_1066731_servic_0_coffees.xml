@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3d40333193c902103ad970d19dba10dc" extends="task" label="Coffees" max_length="40" name="x_1066731_servic_0_coffees" type="collection">
+        <element label="Price" mandatory="true" max_length="20" name="price" type="decimal"/>
+        <element display="true" label="Quantity" mandatory="true" max_length="40" name="quantity" type="integer"/>
+        <element label="Type" mandatory="true" max_length="40" name="type" type="string"/>
+    </element>
+</database>
