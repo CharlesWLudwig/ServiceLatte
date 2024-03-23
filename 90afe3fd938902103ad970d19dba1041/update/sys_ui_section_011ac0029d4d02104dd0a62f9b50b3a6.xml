@@ -1,44 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="011ac0029d4d02104dd0a62f9b50b3a6" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1066731_servic_0">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>time_zone</element>
+            <element>first_name</element>
             <position>0</position>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2024-03-21 03:22:26</sys_created_on>
-            <sys_id>851ac0023b4d0210ef6602182b81aca6</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-21 23:43:57</sys_created_on>
+            <sys_id>a7a1e096934102103ad970d19dba1028</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c11ac002584d0210026609d53fbb66a6">011ac0029d4d02104dd0a62f9b50b3a6</sys_ui_section>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2024-03-21 03:22:26</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-21 23:43:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-21 23:43:57</sys_created_on>
+            <sys_id>2ba1e096934102103ad970d19dba1028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c11ac002584d0210026609d53fbb66a6">011ac0029d4d02104dd0a62f9b50b3a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-21 23:43:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2024-03-21 03:22:26</sys_created_on>
-            <sys_id>491ac002774d02102c9be0f19dbc9ba6</sys_id>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-21 23:43:57</sys_created_on>
+            <sys_id>aba1e096934102103ad970d19dba1028</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c11ac002584d0210026609d53fbb66a6">011ac0029d4d02104dd0a62f9b50b3a6</sys_ui_section>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2024-03-21 03:22:26</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-21 23:43:57</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>preferred_language</element>
-            <position>2</position>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2024-03-21 03:22:26</sys_created_on>
-            <sys_id>891ac002544d0210e95174ce740a21a4</sys_id>
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-21 23:43:57</sys_created_on>
+            <sys_id>2fa1e096934102103ad970d19dba1028</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c11ac002584d0210026609d53fbb66a6">011ac0029d4d02104dd0a62f9b50b3a6</sys_ui_section>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2024-03-21 03:22:26</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-21 23:43:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-21 23:43:57</sys_created_on>
+            <sys_id>afa1e096934102103ad970d19dba1028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c11ac002584d0210026609d53fbb66a6">011ac0029d4d02104dd0a62f9b50b3a6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-21 23:43:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
