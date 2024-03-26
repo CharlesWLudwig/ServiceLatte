@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Salad">17d32127930502103ad970d19dba10d4</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 03:53:14</sys_created_on>
+        <sys_id>9611c6e7938502103ad970d19dba10f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Salad.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_9611c6e7938502103ad970d19dba10f3</sys_update_name>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 03:53:14</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</application>
+        <file_path/>
+        <instance_id>5bffccafdbf13950caf99027c59619ea</instance_id>
+        <instance_name>dev187461</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_9611c6e7938502103ad970d19dba10f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Salad">17d32127930502103ad970d19dba10d4</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>marcia.rollins</sys_created_by><sys_created_on>2024-03-26 03:53:14</sys_created_on><sys_id>9611c6e7938502103ad970d19dba10f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Salad.Users with 'Admin' Role</sys_name><sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package><sys_policy/><sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_9611c6e7938502103ad970d19dba10f3</sys_update_name><sys_updated_by>marcia.rollins</sys_updated_by><sys_updated_on>2024-03-26 03:53:14</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>6284837</payload_hash>
+        <record_name>Salad.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>79a3c56f934102103ad970d19dba1053</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 03:53:14</sys_created_on>
+        <sys_id>1611c6e7938502103ad970d19dba10f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e78e40bd80000001</sys_recorded_at>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 03:53:14</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>9611c6e78d8502108fcdcd56a0780cf5</update_guid>
+        <update_guid_history>9611c6e78d8502108fcdcd56a0780cf5:6284837</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Salad.Users with 'Admin' Role">a4210ae7938502103ad970d19dba10e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 03:53:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>8089d1e91e224bf6a05818da51972f19</sys_id>
+        <sys_metadata>9611c6e7938502103ad970d19dba10f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Salad.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_scope_delete display_value="">1df2990344e647fb84788b3a0efc9d19</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_9611c6e7938502103ad970d19dba10f3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_9611c6e7938502103ad970d19dba10f3">1611c6e7938502103ad970d19dba10f6</sys_update_version>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 03:53:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

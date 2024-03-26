@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <ide_created>AES</ide_created>
@@ -15,13 +15,13 @@
         <license_model>none</license_model>
         <logo>0fb65496930102103ad970d19dba109f</logo>
         <menu/>
-        <name>ServiceLatte</name>
+        <name>Ludwig Patesserie </name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_1066731_servic_0</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>ServiceNow Coffee Shop</short_description>
+        <short_description>ServiceNow Bakery</short_description>
         <source>x_1066731_servic_0</source>
         <store_correlation_id/>
         <store_url/>
@@ -31,9 +31,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-21 01:26:48</sys_created_on>
         <sys_id>90afe3fd938902103ad970d19dba1041</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-21 22:56:15</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 05:35:20</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

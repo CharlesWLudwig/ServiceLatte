@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Which salad would you like?">1d00c2a7938502103ad970d19dba1007</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 03:52:45</sys_created_on>
+        <sys_id>03f0c2e7938502103ad970d19dba10de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Roasted Beet and Goat Cheese</sys_name>
+        <sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_update_name>question_choice_03f0c2e7938502103ad970d19dba10de</sys_update_name>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 03:52:45</sys_updated_on>
+        <text>Roasted Beet and Goat Cheese</text>
+        <value>roasted_beet_and_goat_cheese_salad_with_arugula_and_candied_walnuts</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=03f0c2e7938502103ad970d19dba10de"/>
+</record_update>

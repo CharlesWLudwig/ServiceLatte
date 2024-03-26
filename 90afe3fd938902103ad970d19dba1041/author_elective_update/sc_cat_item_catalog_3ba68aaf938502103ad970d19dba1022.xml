@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Latte">45d42567930502103ad970d19dba107f</sc_cat_item>
+        <sc_catalog display_value="Ludwig Patisserie">0ffd2523934502103ad970d19dba102d</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 04:17:38</sys_created_on>
+        <sys_id>3ba68aaf938502103ad970d19dba1022</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ludwig Patisserie.Latte</sys_name>
+        <sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_3ba68aaf938502103ad970d19dba1022</sys_update_name>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 04:17:38</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</application>
+        <file_path/>
+        <instance_id>5bffccafdbf13950caf99027c59619ea</instance_id>
+        <instance_name>dev187461</instance_name>
+        <name>sc_cat_item_catalog_3ba68aaf938502103ad970d19dba1022</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Latte">45d42567930502103ad970d19dba107f</sc_cat_item><sc_catalog display_value="Ludwig Patisserie">0ffd2523934502103ad970d19dba102d</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>marcia.rollins</sys_created_by><sys_created_on>2024-03-26 04:17:38</sys_created_on><sys_id>3ba68aaf938502103ad970d19dba1022</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ludwig Patisserie.Latte</sys_name><sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package><sys_policy/><sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope><sys_update_name>sc_cat_item_catalog_3ba68aaf938502103ad970d19dba1022</sys_update_name><sys_updated_by>marcia.rollins</sys_updated_by><sys_updated_on>2024-03-26 04:17:38</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1129561081</payload_hash>
+        <record_name>Ludwig Patisserie.Latte</record_name>
+        <reverted_from/>
+        <source>79a3c56f934102103ad970d19dba1053</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 04:17:38</sys_created_on>
+        <sys_id>fba68aaf938502103ad970d19dba1025</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e78fa620f0000001</sys_recorded_at>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 04:17:38</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7fa68aaf8e850210d69b2494d994ca24</update_guid>
+        <update_guid_history>7fa68aaf8e850210d69b2494d994ca24:1129561081</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Ludwig Patisserie.Latte">9ab6caaf938502103ad970d19dba1023</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 04:17:49</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>85fd41ea22c84134a244f476e0330110</sys_id>
+        <sys_metadata>3ba68aaf938502103ad970d19dba1022</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ludwig Patisserie.Latte</sys_name>
+        <sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_parent display_value="Latte">45d42567930502103ad970d19dba107f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_scope_delete display_value="">1df2990344e647fb84788b3a0efc9d19</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_3ba68aaf938502103ad970d19dba1022</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_3ba68aaf938502103ad970d19dba1022">fba68aaf938502103ad970d19dba1025</sys_update_version>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 04:17:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

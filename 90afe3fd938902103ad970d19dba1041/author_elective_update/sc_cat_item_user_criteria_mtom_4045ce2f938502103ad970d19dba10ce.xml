@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Scone">2b642d27930502103ad970d19dba104e</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 04:11:23</sys_created_on>
+        <sys_id>4045ce2f938502103ad970d19dba10ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scone.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_4045ce2f938502103ad970d19dba10ce</sys_update_name>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 04:11:23</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</application>
+        <file_path/>
+        <instance_id>5bffccafdbf13950caf99027c59619ea</instance_id>
+        <instance_name>dev187461</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_4045ce2f938502103ad970d19dba10ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Scone">2b642d27930502103ad970d19dba104e</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>marcia.rollins</sys_created_by><sys_created_on>2024-03-26 04:11:23</sys_created_on><sys_id>4045ce2f938502103ad970d19dba10ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scone.Users with 'Admin' Role</sys_name><sys_package display_value="ServiceLatte" source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package><sys_policy/><sys_scope display_value="ServiceLatte">90afe3fd938902103ad970d19dba1041</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_4045ce2f938502103ad970d19dba10ce</sys_update_name><sys_updated_by>marcia.rollins</sys_updated_by><sys_updated_on>2024-03-26 04:11:23</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-205525476</payload_hash>
+        <record_name>Scone.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>79a3c56f934102103ad970d19dba1053</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 04:11:23</sys_created_on>
+        <sys_id>cc45ce2f938502103ad970d19dba10d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e78f4a8280000001</sys_recorded_at>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 04:11:23</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>4045ce2f1f8502109bb4973c95e765d0</update_guid>
+        <update_guid_history>4045ce2f1f8502109bb4973c95e765d0:-205525476</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Scone.Users with 'Admin' Role">dd45026f938502103ad970d19dba105b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-26 04:11:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>1f3f5833c8c2417aa833ba9ac3ef5d51</sys_id>
+        <sys_metadata>4045ce2f938502103ad970d19dba10ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scone.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_scope_delete display_value="">1df2990344e647fb84788b3a0efc9d19</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_4045ce2f938502103ad970d19dba10ce</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_4045ce2f938502103ad970d19dba10ce">cc45ce2f938502103ad970d19dba10d0</sys_update_version>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-26 04:11:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
