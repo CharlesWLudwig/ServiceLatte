@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
     <sc_category action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <description/>
         <entitlement_script/>
         <header_icon/>
@@ -21,14 +21,14 @@
         <sys_created_by>marcia.rollins</sys_created_by>
         <sys_created_on>2024-03-26 07:24:04</sys_created_on>
         <sys_id>13417e63938902103ad970d19dba10c9</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Bakery Orders</sys_name>
         <sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
         <sys_policy/>
         <sys_scope display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</sys_scope>
         <sys_update_name>sc_category_13417e63938902103ad970d19dba10c9</sys_update_name>
         <sys_updated_by>marcia.rollins</sys_updated_by>
-        <sys_updated_on>2024-03-26 07:27:15</sys_updated_on>
+        <sys_updated_on>2024-03-27 23:48:29</sys_updated_on>
         <title>Bakery Orders</title>
     </sc_category>
     <sys_translated_text action="delete_multiple" query="documentkey=13417e63938902103ad970d19dba10c9"/>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">37badb009311c2103ad970d19dba10d6</sp_column>
+        <sp_widget display_value="SC Catalog Item">3c29786e87133200e0ef0cf888cb0bdf</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-27 23:42:27</sys_created_on>
+        <sys_id>8cea9b409311c2103ad970d19dba104b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_update_name>sp_instance_8cea9b409311c2103ad970d19dba104b</sys_update_name>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:45:21</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"show_add_cart_button": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_field_validation_messages": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_add_to_wishlist_button": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"display_cart_on_right": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_less_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"hide_delivery_time": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"is_preview": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=8cea9b409311c2103ad970d19dba104b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</application>
+        <file_path/>
+        <instance_id>5bffccafdbf13950caf99027c59619ea</instance_id>
+        <instance_name>dev187461</instance_name>
+        <name>sp_instance_8cea9b409311c2103ad970d19dba104b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;37badb009311c2103ad970d19dba10d6&lt;/sp_column&gt;&lt;sp_widget display_value="SC Catalog Item"&gt;3c29786e87133200e0ef0cf888cb0bdf&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;marcia.rollins&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-27 23:42:27&lt;/sys_created_on&gt;&lt;sys_id&gt;8cea9b409311c2103ad970d19dba104b&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0"&gt;90afe3fd938902103ad970d19dba1041&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Ludwig Patesserie "&gt;90afe3fd938902103ad970d19dba1041&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_8cea9b409311c2103ad970d19dba104b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;marcia.rollins&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-27 23:45:21&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"show_add_cart_button": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_field_validation_messages": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_add_to_wishlist_button": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"display_cart_on_right": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_less_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"hide_delivery_time": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"is_preview": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=8cea9b409311c2103ad970d19dba104b"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>722981364</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>18065bc893dd82103ad970d19dba1008</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-27 23:45:21</sys_created_on>
+        <sys_id>aa8b1b809311c2103ad970d19dba100c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e824dd0360000001</sys_recorded_at>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:45:21</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>628b1b808311c210af4218edaaaad00c</update_guid>
+        <update_guid_history>628b1b808311c210af4218edaaaad00c:722981364,00ea9b400711c21065a77875b7c3354e:-279059319</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9f8b1b809311c2103ad970d19dba1011</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marcia.rollins</sys_created_by>
+        <sys_created_on>2024-03-27 23:45:24</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>539fc1e5a7e24ee0948f546f03222400</sys_id>
+        <sys_metadata>8cea9b409311c2103ad970d19dba104b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ludwig Patesserie " source="x_1066731_servic_0">90afe3fd938902103ad970d19dba1041</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ludwig Patesserie ">90afe3fd938902103ad970d19dba1041</sys_scope>
+        <sys_scope_delete display_value="">1df2990344e647fb84788b3a0efc9d19</sys_scope_delete>
+        <sys_update_name>sp_instance_8cea9b409311c2103ad970d19dba104b</sys_update_name>
+        <sys_update_version display_value="sp_instance_8cea9b409311c2103ad970d19dba104b">aa8b1b809311c2103ad970d19dba100c</sys_update_version>
+        <sys_updated_by>marcia.rollins</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:45:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
